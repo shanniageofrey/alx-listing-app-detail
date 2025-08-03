@@ -1,4 +1,5 @@
 
+import { PropertyProps } from "@/interfaces";
 import BookingSection from "./BookingSection";
 import ReviewSection from "./ReviewSection";
 
